@@ -1,110 +1,101 @@
 <h1 align="center">Hi 👋 I'm GI-STANDARDS</h1>
 
 <p align="center">
-  Passionate Developer • Content Creator • AI Enthusiast
+  🚀 Developer • 🤖 AI Enthusiast • 📺 Content Creator
+</p>
+
+<p align="center">
+  Building useful software, automation tools and open-source projects.
 </p>
 
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GI-STANDARDS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GI-STANDARDS&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"/>
+
+</div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=GI-STANDARDS&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GI-STANDARDS&layout=compact&langs_count=8&theme=dracula"/>
-</div>
 
-<br>
+<img height="170" src="https://streak-stats.demolab.com?user=GI-STANDARDS&theme=dracula&hide_border=true"/>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GI-STANDARDS&theme=dracula"/>
-</div>
-
----
-
-## 🚀 Languages & Tools
-
-<div style="display:inline_block"><br>
-
-<img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-
-<img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-
-<img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-
-<img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-
-<img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-
-<img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-
-<img align="center" alt="NodeJS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-
-<img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-
-<img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-
-<img align="center" alt="VSCode" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GI-STANDARDS&layout=compact&theme=dracula&hide_border=true&langs_count=8"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 💻 Tech Stack
 
-<div>
+<p align="left">
 
-<a href="https://github.com/GI-STANDARDS">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,git,github,vscode,linux,docker"/>
 
-<a href="https://youtube.com/@YOUR_CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/YOUR_INVITE">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GI-STANDARDS&theme=dracula"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GI-STANDARDS&theme=dracula&hide_border=true"/>
 
-</div>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GI-STANDARDS&theme=dracula&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/GI-STANDARDS">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@YOURCHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/YOURINVITE">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOURNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-> Requires GitHub Actions setup.
-
-<div align="center">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/GI-STANDARDS/GI-STANDARDS/output/github-contribution-grid-snake.svg"/>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GI-STANDARDS&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=GI-STANDARDS&label=Profile%20Views&color=bd93f9&style=for-the-badge"/>
 
-</div>
+</p>
