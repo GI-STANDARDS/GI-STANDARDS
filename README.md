@@ -8,19 +8,16 @@ Indie game developer and web/UI developer, building tools and games under **Proj
 <br/>
 
 <img src="https://github-stats-extended.vercel.app/api?username=GI-STANDARDS&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00C6FF&icon_color=38BDF8&text_color=C9D6E3&border_color=00000000" height="165"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GI-STANDARDS&hide_border=true&langs_count=8&bg_color=00000000&title_color=00C6FF&text_color=C9D6E3&border_color=00000000" height="165"/>
+
+<br/><br/>
+
+### Languages
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GI-STANDARDS&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&text_color=C9D6E3&border_color=00000000" height="150"/>
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,cs,py,git,unrealengine,unity,blender&perline=11"/>
-
-<br/><br/>
-
-<a href="https://youtube.com/@YOURCHANNEL"><img src="https://img.shields.io/badge/YouTube-0A2540?style=for-the-badge&logo=youtube&logoColor=00C6FF"/></a>
-<a href="https://instagram.com/YOURHANDLE"><img src="https://img.shields.io/badge/Instagram-0A2540?style=for-the-badge&logo=instagram&logoColor=00C6FF"/></a>
-<a href="https://twitch.tv/YOURHANDLE"><img src="https://img.shields.io/badge/Twitch-0A2540?style=for-the-badge&logo=twitch&logoColor=00C6FF"/></a>
-<a href="https://discord.gg/YOURINVITE"><img src="https://img.shields.io/badge/Discord-0A2540?style=for-the-badge&logo=discord&logoColor=00C6FF"/></a>
-<a href="mailto:YOUREMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A2540?style=for-the-badge&logo=gmail&logoColor=00C6FF"/></a>
 
 <br/><br/>
 
