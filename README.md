@@ -5,9 +5,7 @@
 
 <br/><br/>
 
-### Languages
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GI-STANDARDS&hide_title=true&hide_border=true&langs_count=8&bg_color=00000000&text_color=C9D6E3&border_color=00000000" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GI-STANDARDS&theme=github" height="200"/>
 
 <br/><br/>
 
