@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋 I'm GI-STANDARDS</h1>
+<h1 align="center">Hi 👋, I'm GI-STANDARDS</h1>
+
+<h3 align="center">
+Developer • AI Enthusiast • Content Creator
+</h3>
 
 <p align="center">
-  🚀 Developer • 🤖 AI Enthusiast • 📺 Content Creator
-</p>
-
-<p align="center">
-  Building useful software, automation tools and open-source projects.
+Passionate about building useful software, automation tools and open-source projects.
 </p>
 
 ---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GI-STANDARDS&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GI-STANDARDS&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
 
 </div>
 
@@ -26,17 +26,43 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Languages & Tools
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,git,github,vscode,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,sqlite,git,github,docker,linux,vscode,pycharm,cpp,cs,bash&perline=10"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📊 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GI-STANDARDS&theme=dracula"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GI-STANDARDS&theme=dracula"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GI-STANDARDS&theme=dracula"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GI-STANDARDS&theme=dracula"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GI-STANDARDS&theme=dracula&utcOffset=5"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -46,19 +72,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GI-STANDARDS&theme=dracula&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=GI-STANDARDS&theme=dracula&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/GI-STANDARDS">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -72,7 +98,7 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOURNAME">
+<a href="https://linkedin.com/in/YOURNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -84,11 +110,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/GI-STANDARDS/GI-STANDARDS/output/github-contribution-grid-snake.svg"/>
+<img src="https://komarev.com/ghpvc/?username=GI-STANDARDS&label=Profile+Views&style=for-the-badge&color=blueviolet"/>
 
 </p>
 
@@ -96,6 +122,6 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GI-STANDARDS&label=Profile%20Views&color=bd93f9&style=for-the-badge"/>
+<i>Thanks for visiting my profile! ⭐ If you like my projects, consider giving them a star.</i>
 
 </p>
