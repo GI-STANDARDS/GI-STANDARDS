@@ -6,14 +6,14 @@
 
 **Nothing's GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GI-STANDARDS&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="100%"/>
 
 </td>
 <td valign="top" width="50%">
 
 **Most Used Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&theme=transparent&hide_border=true&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GI-STANDARDS&theme=transparent&hide_border=true&langs_count=8" width="100%"/>
 
 </td>
 </tr>
